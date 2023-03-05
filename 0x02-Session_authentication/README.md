@@ -53,8 +53,3 @@ What you should learn from this project:
 
 ### [10. Basic - User object](./api/v1/auth/basic_auth.py)
 * Add the method def user_object_from_credentials(self, user_email: str, user_pwd: str) -> TypeVar('User'): in the class BasicAuth that returns the User instance based on his email and password.
-
-
----
-## Author
-* **Felipe Satizabal** - [felipesv](https://github.com/felipesv)
